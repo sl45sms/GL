@@ -3,7 +3,7 @@ Game Language (DSL for automata game)
 
 ###Quick Guide to GL
 
-The GL is a specialized (DSL) simple but flexible programming language design for the needs of a game. It is easy and does not require previous experience in a programming language.
+The GL is a specialized ([DSL](https://en.wikipedia.org/wiki/Domain-specific_language "Domain-specific language")) simple but flexible programming language design for the needs of a game. It is easy and does not require previous experience in a programming language.
 
 It has been designed with the ability to offer readable syntax, separating each basic functionality with distinctive symbols.
 
