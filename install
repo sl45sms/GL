@@ -1,0 +1,6 @@
+You need node and npm installed at your system
+(for ubuntu: sudo apt-get install nodejs npm)
+Latest Jison 0.4.15 have some bugs so fallback to 0.4.13
+
+npm install jison@0.4.13
+npm install jasmine-core
